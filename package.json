@@ -1,14 +1,17 @@
 {
   "name": "Node.js-Random-Color-Generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app creates random color",
   "keywords": [],
-  "license": "ISC",
-  "author": "",
+  "license": "ISCMIT",
+  "author": "Shen",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "repo-color-utility-package": "^1.0.3"
   },
   "devDependencies": {
     "eslint-config-upleveled": "^5.0.4",
